@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[arts axis llc]]></title>
         <description><![CDATA[arts axis llc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artsaxis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 20:00:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 20:00:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artsaxis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/artsaxis/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">72a405a7-82c1-43f8-b61f-9686303b6728</guid>
+            <pubDate>Sun, 29 Nov 2015 20:00:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!]]></title>
             <description><![CDATA[<article><h1>Welcome!</h1><p>Welcome to The Grid</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/artsaxis/welcome/index.html</link>
             <guid isPermaLink="false">ad729248-cd23-4198-8b5e-cc2024208231</guid>
             <pubDate>Sun, 29 Nov 2015 20:00:39 GMT</pubDate>
         </item>
