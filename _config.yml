@@ -1,7 +1,7 @@
 name: artsaxis
 favicon: null
-layout_spectrum: 0.72187
-typography_spectrum: 0.24826
+layout_spectrum: 0.75157
+typography_spectrum: 0.25569
 title: arts axis llc
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#8b8b8b'
-    - '#4d4d4d'
-    - '#fe9900'
+    - '#947e71'
+    - '#3a322f'
+    - '#febb4c'
+    - '#b25100'
+    - '#fce6d8'
   brandStrength: 0.8246840913780034
-  lightness: 0.8801779681816697
+  lightness: 0.5625
   saturation: 0.7368409894406796
-  rhythmicContrast: 0
+  rhythmicContrast: 0.75
 purpose: []
